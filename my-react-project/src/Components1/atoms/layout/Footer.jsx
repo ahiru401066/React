@@ -10,7 +10,7 @@ export const Footer = () => {
 }
 
 const SFooter = styled.footer`
-  backgrund-color: #11999e;
+  background-color: #11999e;
   color: #fff;
   text-align: center;
   padding: 8px 0;
